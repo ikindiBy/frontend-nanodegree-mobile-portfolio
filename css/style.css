@@ -7,17 +7,17 @@ a:hover, a:active { color: #c00; outline: 0; }
 ul, ol { margin: 1em 0; padding: 0 0 0 20px; }
 header, footer, .container { max-width: 45em; margin: 0 auto; }
 header img { border-radius: 40px; float: left; }
-.bg-fan2_min{width: 70px; height: 71px;background: url('img/css_sprites.png') -250px -10px;}
-.bg-profilepic_min{width: 70px; height: 70px;background: url('img/css_sprites.png') -10px -186px;}
+.bg-fan2_min{width: 70px; height: 71px;background: url('../img/css_sprites.png') -250px -10px;}
+.bg-profilepic_min{width: 70px; height: 70px;background: url('../img/css_sprites.png') -10px -186px;}
 header p { font-size:1.5em; font-weight: bold; padding-left: 4em;}
 header p span { font-size: 0.8em; font-weight: normal;}
 .hero { padding: 2em; background-color: #f8f8f8; font-size:1.2em;
   border-bottom: 1px solid #ccc; border-top: 1px solid #ccc;}
 li { list-style-type: none; font-size: 1.1em;}
 li p { font-size: 0.9em; font-style: italic; }
-.bg-li1{width: 100px; height: 50px; background: url('img/css_sprites.png') -130px -105px;}
-.bg-li2 {width: 100px; height: 62px;background: url('img/css_sprites.png') -130px -10px;}
-.bg-li3 {width: 100px; height: 61px;background: url('img/css_sprites.png') -10px -105px;}
-.bg-pizzeria {width: 100px; height: 75px;background: url('img/css_sprites.png') -10px -10px;}
+.bg-li1{width: 100px; height: 50px; background: url('../img/css_sprites.png') -130px -105px;}
+.bg-li2 {width: 100px; height: 62px;background: url('../img/css_sprites.png') -130px -10px;}
+.bg-li3 {width: 100px; height: 61px;background: url('../img/css_sprites.png') -10px -105px;}
+.bg-pizzeria {width: 100px; height: 75px;background: url('../img/css_sprites.png') -10px -10px;}
 footer { padding: 0 0.5em; border-top: 1px solid #ccc;}
 @media only screen and (max-width: 480px) { body { font-size: 12px;} header p { padding-left: 4.5em;}}
